@@ -6,7 +6,7 @@ const PORT = 3000;
 
 // Root endpoint
 app.get("/", (req, res) => {
-  res.send("DevOps Demo Application is Running Successfully! - Using Nodejs");
+  res.send("DevOps Demo Application(Assignment) is Running Successfully! - Using Nodejs");
 });
 
 // Health check endpoint
