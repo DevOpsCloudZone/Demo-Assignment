@@ -1,0 +1,14 @@
+{
+  "name": "devops-demo-app",
+  "version": "1.0.0",
+  "description": "Node.js app for DevOps assignment",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Umesh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
